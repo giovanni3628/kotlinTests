@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ClienteTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-08-25T15:38:13" hostname="MacBook-Air-de-Giovanni.local" time="0.014">
+  <properties/>
+  <testcase name="addCompra()" classname="ClienteTest" time="0.012"/>
+  <testcase name="removerCompra()" classname="ClienteTest" time="0.001"/>
+  <system-out><![CDATA[Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto excluído com sucesso!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
